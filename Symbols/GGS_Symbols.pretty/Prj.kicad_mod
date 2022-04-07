@@ -1,0 +1,21 @@
+(footprint "Prj" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 624AFF03)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 20cb1143-7611-4330-b164-25e6cb1533ca)
+  )
+  (fp_text value "Prj" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b5e43064-b589-47f1-9448-84dd803d643d)
+  )
+  (fp_text user "Prj:" (at -2.3 -2.9) (layer "F.SilkS")
+    (effects (font (size 1.5 1.5) (thickness 0.254) bold) (justify left bottom))
+    (tstamp 1b447dd5-5779-498c-82d1-91f1dbe75cfb)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4212bda0-ee13-4d07-bbb6-e1826cca92d4)
+  )
+)

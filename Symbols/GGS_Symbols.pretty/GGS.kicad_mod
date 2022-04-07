@@ -1,0 +1,21 @@
+(footprint "GGS" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 624AFEED)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 26dd9b52-c9a4-4ba1-a13a-7c9b892a4364)
+  )
+  (fp_text value "GGS" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5c1e4150-f096-48e4-9c0a-0577ad9218bf)
+  )
+  (fp_text user "GGS" (at -0.2 -0.5) (layer "F.SilkS")
+    (effects (font (size 1.5 1.5) (thickness 0.254) bold) (justify left bottom))
+    (tstamp 06e97388-40b8-48b6-942d-9feb4714cd0e)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4ee8db0d-1b92-43cf-ac20-535a2aca39f8)
+  )
+)

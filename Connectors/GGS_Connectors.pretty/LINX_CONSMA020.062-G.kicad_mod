@@ -65,4 +65,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 90 0))
   )
+  (model "D:/Documentos/GitHub/NSL_KiCad_Libraries/Connectors/StepFiles/SMA-H.stp"
+    (offset (xyz 0 -2.4 -0.8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 90 0))
+  )
 )
